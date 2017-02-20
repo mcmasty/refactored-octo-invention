@@ -1,2 +1,3 @@
 # refactored-octo-invention
-Programming Exercises
+Programming Exercises for Coursera Data Science at Scale.  
+
